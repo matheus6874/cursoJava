@@ -38,7 +38,7 @@ public class Program {
             System.out.println(x);
         }
 
-        System.out.println("------------------------------");
+        System.out.println("---------------------------------");
 
         String name = list.stream().filter(x -> x.charAt(0) == 'A').findFirst().orElse(null);
 
