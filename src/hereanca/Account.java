@@ -36,7 +36,7 @@ public class Account {
     }
 
     public void withdraw(double amount){
-        balance = balance - amount;
+        balance = balance - (amount+5);
     }
 
     public void deposit(double amount){
