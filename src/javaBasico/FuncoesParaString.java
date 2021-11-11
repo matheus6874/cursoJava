@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class FuncoesParaString {
     public static void main(String[] args) {
 

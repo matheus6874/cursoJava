@@ -1,3 +1,5 @@
+package javaBasico;
+
 public class OperadorTernario {
     public static void main(String[] args) {
         double preco = 34.5;

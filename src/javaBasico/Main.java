@@ -1,3 +1,5 @@
+package javaBasico;
+
 import java.util.Locale;
 
 public class Main {
